@@ -14,6 +14,7 @@ python client.py lsHostname lsListenPort
 
 
 where:
+
 ts1ListenPort and ts2ListenPort are ports accepting incoming connections at TS1 and TS2 (resp.) from LS,
 
 lsListenPort is the port accepting incoming connections from the client at LS,
